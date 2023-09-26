@@ -1,6 +1,6 @@
 <h1>Samis Ecom Store</h1>
 
-An ecommerce front-facing store developed with individual API routes. This store aships with product categorization, product filtering with attributes like color and sizes, product image gallery, store billboard ect. Some of the features built into this project include:
+An ecommerce front-facing store developed with individual API routes. This store ships with product categorization, product filtering with attributes like color and sizes, product image gallery, store billboard ect. Some of the features built into this project include:
 
 <ul>
   <li>Clerk User Authentication</li>

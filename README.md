@@ -20,7 +20,7 @@ This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma
 
 <h2>Screenshots</h2>
 
-![proj14-samis-ecom-store](https://github.com/SammyLeths/samis-ecom-store/assets/64320618/c7b23dd4-13d2-4f1c-b359-84070672f4d5)
+![proj14-samis-ecom-store](https://github.com/SammyLeths/samis-ecom-store/assets/64320618/debf65e0-e13b-4bb7-8c62-bc3931f29619)
 
 <h2>Links</h2>
 
